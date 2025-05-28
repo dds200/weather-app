@@ -41,3 +41,22 @@ Try it live on your site or integrate into your projects.
 ---
 
 ## 📁 File Structure
+weather-widget/
+├── index.html
+├── README.md
+├── screenshot.png
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## ❤️ Credits
+
+- Weather icons are inline SVGs, custom designed for readability and animation.
+- Weather data powered by [Open-Meteo](https://open-meteo.com/).
+
+---
